@@ -138,10 +138,10 @@ The system outputs:
 5. Use multiple forward passes during testing
 
 ## License
-[Your License Here]
+
 
 ## Contributing
-[Contributing Guidelines]
+
 
 ## Contact
-[Contact Information]
+
